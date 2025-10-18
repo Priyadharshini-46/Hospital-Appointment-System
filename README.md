@@ -1,3 +1,4 @@
+======= HEAD
 Hospital Appointment Booking System
 
 A simple desktop application for managing hospital appointments, built with Java Swing and MySQL. This was created as a mini-project to demonstrate core Java and database connectivity concepts.
@@ -81,3 +82,7 @@ Admin: admin / adminpass
 Doctor: d_adams / doctorpass
 
 Patient: p_clark / patientpass
+=======
+# Hospital-Appointment-System
+A Java Swing and MySQL app for booking hospital appointments.
+======= 1364340be125e9ea3407936ab5cad1b9158183b6
